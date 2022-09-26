@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cbaec7b-d286-417e-a9f6-1922969d06a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="0fe92066-9b7d-4d87-85c9-b714fcc82612" />
+  <component name="ProjectId" id="1eqfS6GDeySeGZmKSesbsC8CvRQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.clustering (2)">
+    <configuration name="AdaBoost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Myclassification/adaboost" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Myclassification/adaboost/AdaBoost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clustering (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clustering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clustering/clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clustering (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clustering1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clustering1/clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clustering0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clustering0/clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clustering1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clustering1/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clustering (2)" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.clustering (1)" />
+        <item itemvalue="Python.clustering" />
+        <item itemvalue="Python.AdaBoost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cbaec7b-d286-417e-a9f6-1922969d06a4" name="Default Changelist" comment="" />
+      <created>1595054040622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595054040622</updated>
+      <workItem from="1595054056687" duration="767000" />
+      <workItem from="1595089920615" duration="18183000" />
+      <workItem from="1595134666436" duration="4527000" />
+      <workItem from="1595139317109" duration="7181000" />
+      <workItem from="1595148038582" duration="925000" />
+      <workItem from="1595251433886" duration="1659000" />
+      <workItem from="1595254518649" duration="1140000" />
+      <workItem from="1595256268511" duration="3823000" />
+      <workItem from="1595260698656" duration="318000" />
+      <workItem from="1595267029346" duration="4000" />
+      <workItem from="1595267188977" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="169" key="#Servers" timestamp="1595267407032">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="426" y="169" key="#Servers/0.23.1440.832@0.23.1440.832" timestamp="1595267407032" />
+    <state x="437" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595105766424">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="437" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.834@0.23.1440.834" timestamp="1595105766424" />
+    <state x="489" y="200" key="FileChooserDialogImpl" timestamp="1595254369352">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="489" y="200" key="FileChooserDialogImpl/0.23.1440.833@0.23.1440.833" timestamp="1595254369352" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1595260616442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595260616442" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1595256557327" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1595255768067" />
+    <state width="1325" height="250" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1595147919043" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1595260616441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595260616441" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1595256557326" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1595255768066" />
+    <state width="1325" height="250" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1595147919042" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1595260616441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595260616441" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1595256557326" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1595255768066" />
+    <state width="1325" height="250" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1595147919041" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1595260616442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595260616442" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1595256557327" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1595255768066" />
+    <state width="1325" height="250" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1595147919042" />
+    <state width="1325" height="250" key="GridCell.Tab.1.bottom" timestamp="1595147919044">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1325" height="250" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1595147919044" />
+    <state width="1325" height="250" key="GridCell.Tab.1.center" timestamp="1595147919043">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1325" height="250" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1595147919043" />
+    <state width="1325" height="250" key="GridCell.Tab.1.left" timestamp="1595147919043">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1325" height="250" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1595147919043" />
+    <state width="1325" height="250" key="GridCell.Tab.1.right" timestamp="1595147919043">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1325" height="250" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1595147919043" />
+    <state x="211" y="77" key="SettingsEditor" timestamp="1595267482965">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="211" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1595054198291" />
+    <state x="211" y="77" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1595267482965" />
+    <state x="211" y="77" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1595255513706" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab3$max_entropy.coverage" NAME="max_entropy Coverage Results" MODIFIED="1595145847323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/logistic_regression" />
+    <SUITE FILE_PATH="coverage/Lab3$AdaBoost.coverage" NAME="AdaBoost Coverage Results" MODIFIED="1595149112373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/adaboost" />
+    <SUITE FILE_PATH="coverage/Lab3$perceptron_base.coverage" NAME="perceptron_base Coverage Results" MODIFIED="1595147489724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/perceptron" />
+    <SUITE FILE_PATH="coverage/Lab3$perceptron_dual.coverage" NAME="perceptron_dual Coverage Results" MODIFIED="1595147548757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/perceptron" />
+    <SUITE FILE_PATH="coverage/Lab3$clustering__1_.coverage" NAME="clustering (1) Coverage Results" MODIFIED="1595256294426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clustering" />
+    <SUITE FILE_PATH="coverage/Lab3$clustering__2_.coverage" NAME="clustering (2) Coverage Results" MODIFIED="1595260464407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clustering1" />
+    <SUITE FILE_PATH="coverage/Lab3$svm.coverage" NAME="svm Coverage Results" MODIFIED="1595147228595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/support_vector_machine" />
+    <SUITE FILE_PATH="coverage/Lab3$clustering.coverage" NAME="clustering Coverage Results" MODIFIED="1595256278036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clustering0" />
+    <SUITE FILE_PATH="coverage/Lab3$naiveBayesBase.coverage" NAME="naiveBayesBase Coverage Results" MODIFIED="1595145653212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/naive_bayes" />
+    <SUITE FILE_PATH="coverage/Lab3$knnclassifier.coverage" NAME="knnclassifier Coverage Results" MODIFIED="1595137420779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classification-master" />
+    <SUITE FILE_PATH="coverage/Lab3$plot.coverage" NAME="plot Coverage Results" MODIFIED="1595258450993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clustering1" />
+    <SUITE FILE_PATH="coverage/Lab3$decisiontree.coverage" NAME="decisiontree Coverage Results" MODIFIED="1595137413246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classification-master" />
+    <SUITE FILE_PATH="coverage/Lab3$LogisticRegressionClassifier.coverage" NAME="LogisticRegressionClassifier Coverage Results" MODIFIED="1595146600708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myclassification/logistic_regression" />
+  </component>
+</project>
